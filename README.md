@@ -234,15 +234,15 @@ Through this project, the following skills were developed:
 
 👨💻 Team Members
 
-Abhiram Yarlagadda(Team Lead)
+Satish Vanamadi (Team Lead)
 
-Valmiki Lakshmi Veer Manoj
+Naveen Garapati
 
-Gandimenu Akshaya
+Malireddi Naga Krishna Murthy
 
-Vasamsetti Venkata Sai Teja
+Yoga Sri Sainadh Chintala
 
-Juttuka Jaya Venkata Kumar
+Satya Sai Kumar Depa
 
 
 
